@@ -1,15 +1,20 @@
 .Contact {
   /* color:azure; */
   /* object-position: center; */
+  color: rgb(255, 183, 0);
   text-align: center;
   background-image: url("https://media2.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif?cid=ecf05e479dfh030h8gto435urayd92xit5pzyeoh10nd1vhz&ep=v1_gifs_related&rid=giphy.gif&ct=g");
   background-size: cover;
-  height: 100vh;
+  height: 1000px;
   padding: 0;
   margin: 0;
 }
 
 .Contact p {
+  font-weight: 500;
+  color: rgb(255, 183, 0);
+  font-size: 25px;
+  margin: 85px 0 0 0;
   width: 500px;
   display: inline-block;
   /* max-width: 1000px; */
