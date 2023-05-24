@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.3420e1a6.css",
-    "main.js": "/ReactPortfolio/static/js/main.30067113.js",
+    "main.css": "/ReactPortfolio/static/css/main.39ce413c.css",
+    "main.js": "/ReactPortfolio/static/js/main.b3e87faa.js",
     "static/media/LukeHeadshot.PNG": "/ReactPortfolio/static/media/LukeHeadshot.158457ef51d556072b0c.PNG",
     "static/media/eCommerceScreenShot.png": "/ReactPortfolio/static/media/eCommerceScreenShot.7c67210ea8587723b3ff.png",
     "static/media/bucketListScreenShot.png": "/ReactPortfolio/static/media/bucketListScreenShot.712f5877879ce2c5ccf5.png",
@@ -9,13 +9,13 @@
     "static/media/calendarScreenShot.png": "/ReactPortfolio/static/media/calendarScreenShot.ad8f28c9a16caa50360c.png",
     "static/media/noteTakerScreenShot.png": "/ReactPortfolio/static/media/noteTakerScreenShot.2e74fafcbd5a06b2a490.png",
     "static/media/quizScreenShot.png": "/ReactPortfolio/static/media/quizScreenShot.30c6701c66f54d21ac0f.png",
+    "static/media/resume.pdf": "/ReactPortfolio/static/media/resume.d7ef130f4dca291f4044.pdf",
     "index.html": "/ReactPortfolio/index.html",
-    "static/media/resume.pdf": "/ReactPortfolio/static/media/resume.fddfb1ac4c1dc9449224.pdf",
-    "main.3420e1a6.css.map": "/ReactPortfolio/static/css/main.3420e1a6.css.map",
-    "main.30067113.js.map": "/ReactPortfolio/static/js/main.30067113.js.map"
+    "main.39ce413c.css.map": "/ReactPortfolio/static/css/main.39ce413c.css.map",
+    "main.b3e87faa.js.map": "/ReactPortfolio/static/js/main.b3e87faa.js.map"
   },
   "entrypoints": [
-    "static/css/main.3420e1a6.css",
-    "static/js/main.30067113.js"
+    "static/css/main.39ce413c.css",
+    "static/js/main.b3e87faa.js"
   ]
 }
