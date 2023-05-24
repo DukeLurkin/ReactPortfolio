@@ -1,8 +1,8 @@
 import React from 'react';
-
+import "../../styles/Resume.css";
 export default function Resume() {
   return (
-    <div>
+    <div className="Resume">
       <h1>Resume</h1>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
