@@ -12,7 +12,7 @@ export default function Portfolio() {
     <div className="Portfolio">
       <h1>Portfolio</h1>
       <h3>
-        Click on a picture to go to App
+        *Click on a picture to launch that Website*
       </h3>
       
         <div className='container text-center'>
