@@ -21,4 +21,4 @@ https://github.com/DukeLurkin/ReactPortfolio
 
 ## Live Deployed App
 
-https://dukelurkin.github.io/ReactPortfolio
+https://DukeLurkin.github.io/ReactPortfolio
