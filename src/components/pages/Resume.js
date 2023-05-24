@@ -14,7 +14,7 @@ export default function Resume() {
         <li>C++</li>
         <li>JavaScript</li>
         <li>React</li>
-        <li>More to come</li>
+        <li>Blockchain/Cryptocurrencies</li>
       </p>
     </div>
   );
