@@ -51,7 +51,7 @@ export default function Portfolio() {
             </div>
             <div className='col-md-4'>
             <h4>Note Taker</h4>
-            <a href="https://dukelurkin.github.io/noteTaker">
+            <a href="https://fierce-citadel-59312.herokuapp.com/notes">
             <img src={picture6}></img>
             </a>
             </div>
